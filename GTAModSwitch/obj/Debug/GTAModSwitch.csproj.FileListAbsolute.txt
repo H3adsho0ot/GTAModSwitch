@@ -1,1 +1,10 @@
 C:\Users\nikla_000\Desktop\GTAModSwitch\GTAModSwitch\bin\Debug\GTAModSwitch.exe.config
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\bin\Debug\GTAModSwitch.exe.config
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\bin\Debug\GTAModSwitch.exe
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\bin\Debug\GTAModSwitch.pdb
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\obj\Debug\GTAModSwitch.csprojResolveAssemblyReference.cache
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\obj\Debug\GTAModSwitch.main.resources
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\obj\Debug\GTAModSwitch.Properties.Resources.resources
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\obj\Debug\GTAModSwitch.csproj.GenerateResource.Cache
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\obj\Debug\GTAModSwitch.exe
+C:\Users\nikla_000\Documents\GitHub\GTAModSwitch\GTAModSwitch\obj\Debug\GTAModSwitch.pdb
